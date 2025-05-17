@@ -1,2 +1,0 @@
-# credit-score-machine
-iykyk
